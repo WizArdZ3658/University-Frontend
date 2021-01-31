@@ -22,7 +22,7 @@ The website is hosted on [Heroku](https://www.heroku.com/home).
 HTML, CSS, Javascript
 
 ##### Frameworks, Libraries and Tools:-
-React, Axios, Chart.js, Redux, Webpack, Babel, Heroku, Bootstrap, VSCode, Git, [University API](https://github.com/WizArdZ3658/University-Backend)
+React, Axios, Chart.js, Redux, React Router Dom, Webpack, Babel, Heroku, Bootstrap, VSCode, Git, [University API](https://github.com/WizArdZ3658/University-Backend)
 
 ##### Environment:-
 Windows(my PC), Linux(Deployment server)
